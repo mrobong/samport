@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sammy/static/css/main.63fc01e8.css",
+    "main.js": "/sammy/static/js/main.3900db1b.js",
+    "static/media/sambg.png": "/sammy/static/media/sambg.6d812a9f8611fa25320b.png",
+    "static/media/sammyA.png": "/sammy/static/media/sammyA.a5c4a0b12cb49d73d7e4.png",
+    "static/media/psycalc.png": "/sammy/static/media/psycalc.a41aaa1f8c918d545ca3.png",
+    "static/media/tin-dog.png": "/sammy/static/media/tin-dog.b307ddb177a5b41c0833.png",
+    "static/media/drum-kit.png": "/sammy/static/media/drum-kit.0c600cc0b0bb51219629.png",
+    "static/media/simon-game.png": "/sammy/static/media/simon-game.17c7b60638c5aaf2114c.png",
+    "static/media/facebook.png": "/sammy/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/sammy/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/sammy/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/Blog.png": "/sammy/static/media/Blog.4ae07c2a9160b64e655f.png",
+    "static/media/ui-design.png": "/sammy/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/sammy/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/sammy/index.html",
+    "main.63fc01e8.css.map": "/sammy/static/css/main.63fc01e8.css.map",
+    "main.3900db1b.js.map": "/sammy/static/js/main.3900db1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63fc01e8.css",
+    "static/js/main.3900db1b.js"
+  ]
+}
